@@ -1,0 +1,28 @@
+* {
+    background-color: lightgreen;
+}
+
+.title {
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 30px;
+}
+
+.menu {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+}
+
+img {
+    height: auto;
+    width: 200px;
+}
+
+ul {
+    list-style: none;
+}
+
+.menu, .description, .ingredients, .steps {
+    border-style: double;
+    padding: auto;
+}
